@@ -24,12 +24,10 @@ I have always been a naturally curious person, who loved finding out how things 
 | Learning      |
 | ------------- |
 | Java          |
-| Intellij IDea |
+| IntelliJ IDEA |
 | Vim Motions   |
 
 ## Projects
-
----
 
 ### [Expense and Income Tracker](https://expense-tracker-client-99oc.onrender.com)
 
@@ -55,10 +53,10 @@ Clowning Around is a lighthearted clown forum website that was completed as a te
 
 I taught myself how to cook years ago and love trying out new recipes. Naturally for one of my projects I had to build an app that would allow me to keep track of recipes that I have made in the past. This is a full stack application written with vanilla JS, CSS, HTML for the front end and Express and Mongoose for the backend.
 
----
 
 <img src="./project2.png" width="65%"> 
 
+---
 
 ### [Checkers](https://briant1312.github.io/project-1/)
 
